@@ -29,7 +29,7 @@ const Nav = () => {
   return (
     <nav>
       <div className="logo">
-        <img src="/img/logo.png" alt="Logo da Loja" />
+        <img src="public/img/logo.png" alt="Logo da Loja" />
         <h1>Geek Journal</h1>
       </div>
       <ul className="categorias">
